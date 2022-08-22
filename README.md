@@ -1,3 +1,5 @@
+I funked up somethingwith the uploads. This is my very first site, but I am posting the updated version in a new repoistory.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Jak3Th3Snak300/Practice-My-First-Website-/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
