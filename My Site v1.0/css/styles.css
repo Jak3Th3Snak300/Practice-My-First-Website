@@ -1,0 +1,136 @@
+.top-container {
+  background-color: #94B49F;
+  padding-top: 50px;
+}
+
+.middle-container {
+  background-color: #CEE5D0;
+  margin: 0 auto 0 auto;
+}
+
+.bottom-container {
+  background-color: #FCF8E8;
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+
+/* Colors
+olive green,mint green, cream, unfired brick
+94B49F
+CEE5D0
+FCF8E8
+ECB390
+*/
+h1 {
+  width: 50%;
+  margin: 50px auto 0 auto;
+  font-family: 'Dancing Script', arial;
+  font-size: 3.75rem; /*100% = 16px = 1em or "M" size */
+  color: #1f4603;
+  line-height: 200%;
+}
+
+h2{
+  margin: auto auto auto 0;
+  padding-bottom: 20px;
+  font-size: 2.0rem;
+  color: #1f4603;
+  font-family: serif, arial;
+  font-weight: normal;
+}
+
+h3{
+  text-decoration: underline;
+  color: #5a1e12;
+  font-family: sans-serif, arial;
+  font-weight: normal;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  /* Open Sans  is primary, sans-serif is fallback*/
+}
+
+.leftTree {
+  position: absolute;
+  left: 425px;
+  top: 350px;
+  height: 70px;
+  width: 70px;
+}
+
+.rightTree {
+  position: absolute;
+  top: 350px;
+  right: 425px;
+  height: 70px;
+  width: 70px;
+  transform: scaleX(-1);
+}
+
+.pyramid {
+  height: 200px;
+  width: 200px;
+}
+
+.profilePic {
+  height: 300px;
+  width: 200px;
+  border-radius: 100%;
+  margin: 10px 0 0 0;
+}
+
+.typeMonkey{
+  width:280px;
+  height:210px;
+  float: left;
+  margin-left: 170px;
+  margin-right: 30px;
+  /* source link, site under image later <a href="https://giphy.com/gifs/coding-zOvBKUUEERdNm">via GIPHY</a> maybe as caption? */
+}
+
+.aboutSkills{
+  text-align: left;
+  width: 80%;
+}
+
+.blueprint {
+  height: 50px;
+  width: 50px;
+}
+
+.problem-solving {
+  height: 50px;
+  width: 50px;
+}
+
+.teamwork {
+  height: 50px;
+  width: 50px;
+}
+
+.functionalSkills{
+  margin-top: 60px;
+}
+
+.skillsTable{
+  margin-left: 170px;
+  border-spacing: 10px;
+  text-align: left;
+}
+
+.contactTable{
+  text-align: center;
+  margin: auto;
+  border-spacing: 10px;
+}
+
+.linkedin-link{
+  color: #5a1e12;
+}
+
+.email-link{
+  color: #5a1e12;
+}
